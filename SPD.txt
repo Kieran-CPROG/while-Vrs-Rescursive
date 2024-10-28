@@ -1,0 +1,4 @@
+1.Recursing only remberes everything
+while while loop only rembermeber that instance 
+
+2. lags the program, 
